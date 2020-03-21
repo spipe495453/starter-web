@@ -8,7 +8,7 @@
 ## How to
  Some more text to compare different versions.
 ### How to bla
-
+ First start with an empty file.
 ### How to blup
 
 ### Copyright
