@@ -10,3 +10,7 @@
 ### How to bla
 
 ### How to blup
+
+### Copyright
+
+ Copyright Bla
